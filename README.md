@@ -56,3 +56,8 @@ If an error occurs in any endpoint, the API will return a JSON object with an er
 - Express.js
 - MongoDB
 - Mongoose
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details
